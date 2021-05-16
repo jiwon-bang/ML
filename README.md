@@ -1,6 +1,11 @@
-# Titanic: Machine Learning from Disaster
+# Jiwon Bang
+bjw0723@gmail.com
 
-## R을 이용한 프로젝트 -> Python을 이용한 프로젝트
-## 목표
-### 1. python oop 연습
-### 2. 머신러닝 모델 성능향상
+# 🗂 File List
+
+## 📁 code
+##### Titanic R → Python 코드정리
+## 📁 data
+##### Titanic R → Python 사용 데이터 
+## 📁 scikit-learn-userguide
+##### scikit-learn-userguide 발표 준비 후 정리
